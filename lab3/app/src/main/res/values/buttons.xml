@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_next">Далі</string>
+    <string name="button_finish_test">Завершити</string>
+    <string name="button_start_with_variants">Із варіантами</string>
+    <string name="button_start_without_variants">Без варіантів</string>
+    <string name="check">Перевірити</string>
+</resources>

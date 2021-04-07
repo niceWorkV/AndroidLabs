@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test_english">
+        <item>
+            hello,Привіт,2,3,4,Привіт
+        </item>
+        <item>
+            home,Дім,6,7,8,Дім
+        </item>
+        <item>
+            back,Назад,10,11,12,Назад
+        </item>
+        <item>
+            folks,Люди,14,15,16,Люди
+        </item>
+    </string-array>
+</resources>

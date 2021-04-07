@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="show_result_wrong">Wrong</string>
+    <string name="show_result_correct">Correct</string>
+    <string name="en">english</string>
+    <string name="ge">german</string>
+    <string name="file_test_name">test_file_</string>
+</resources>
